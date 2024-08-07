@@ -1,0 +1,12 @@
+[package]
+name = "lp-rs"
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/xroi/lprs"
+authors = [
+    "Roi Eliasian <roi.eliasian@gmail.com>",
+    "Contributors to lp-rs",
+]
+
+[dependencies]
